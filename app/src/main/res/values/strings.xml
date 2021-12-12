@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">헬스천국</string>
+    <string name="product_price">price</string>
+    <string name="product_name">name</string>
+    <string name="product_url">URL</string>
+    <string name="logo_explanation">logo_explanation</string>
+    <string name="text_explanation">text_explanation</string>
+    <string name="check">check</string>
+    <string name="call">매장연락</string>
+    <string name="email">메일로문의</string>
+    <string name="map">매장위치</string>
+    <string name="welcome">Welcome to health world app</string>
+    <string name="another">다른정보보기</string>
+</resources>
